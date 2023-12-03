@@ -1,2 +1,2 @@
-# ordinary-
-爬取一般网页的爬虫，从txt文件中一行一行获取url，使用requests方法，如果url没有问题，将获取到的网页源码保存到html中
+
+**a crawler of website, read all address from a txt file and obtain urls. If we can access the website properly, store the html.**
